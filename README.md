@@ -1,4 +1,4 @@
-#### GitHubActions运行
+#### GitHub Actions
 
 1. 点击项目右上角进行**fork**
 
